@@ -4,11 +4,11 @@ extends KinematicBody2D
 func _ready():
 	pass # Replace with function body.
 
-var SPEED = 250
+var SPEED = 25000
 var velocity = Vector2()
 
 func cartesian_to_isometric(cartesian):
-	return Vector2(cartesian.x - cartesian.y, (cartesian.x + cartesian.y) / 2)
+	return Vector2(cartesian.x - cartesian.y, cartesian.x + cartesian.y / 2)
 	
 func get_input():
 	# Detect up/down/left/right keystate and only move when pressed.

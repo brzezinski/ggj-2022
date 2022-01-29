@@ -1,7 +1,7 @@
 [gd_scene load_steps=4 format=2]
 
 [ext_resource path="res://Library/CollisionElement.tscn" type="PackedScene" id=1]
-[ext_resource path="res://Library/Player.tscn" type="PackedScene" id=2]
+[ext_resource path="res://Library/Player/Player.tscn" type="PackedScene" id=2]
 [ext_resource path="res://Main.gd" type="Script" id=3]
 
 [node name="Main" type="Node"]
@@ -11,6 +11,7 @@ script = ExtResource( 3 )
 
 [node name="EarthTileMap" type="TileMap" parent="Earth"]
 mode = 1
+cell_size = Vector2( 64, 32 )
 format = 1
 
 [node name="Environment" type="YSort" parent="Earth"]
@@ -28,6 +29,7 @@ format = 1
 [node name="Player" type="YSort" parent="Earth/Environment"]
 
 [node name="Player" parent="Earth/Environment/Player" instance=ExtResource( 2 )]
+position = Vector2( 3, 11 )
 
 [node name="Sky" type="Node2D" parent="."]
 
