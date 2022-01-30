@@ -20,6 +20,10 @@ func cat_pickup():
 	$Meau.stream = CAT_SFX
 	$Meau.play()
 	$Timer.start()
+	var uis = get_tree().get_nodes_in_group("UI")
+	for ui in uis:
+		ui.cat_catched()
+		return
 
 #remove the cat from the scene
 func _on_Timer_timeout():
