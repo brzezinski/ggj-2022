@@ -3,6 +3,8 @@ extends Node
 const MUSIC_DEFAULT = preload("res://Library/Sfx/Music/bounce_ggj01.wav")
 const MUSIC_EARTH = MUSIC_DEFAULT
 const MUSIC_SKY = preload("res://Library/Sfx/Music/bounce_ggj02.wav")
+const AMBIENT_EARTH = preload("res://Library/Sfx/Environment/Birds.wav")
+const AMBIENT_SKY = preload("res://Library/Sfx/Environment/Clouds.wav")
 
 var fade_scene
 
@@ -36,9 +38,9 @@ func play_music_new(new_music):
 		$MusicPlayer.stream = new_music
 	play_music()
 	
-func _process(delta):
+#func _process(delta):
 	#play_music()
-	pass
+#	pass
 	
 #on which level player is right now?
 func find_player():
@@ -78,6 +80,7 @@ func switch_floor(player):
 		fade_scene.rect_position = find_player().position
 		#add_child(fade_scene)
 		play_music_new(MUSIC_SKY)
+		$AmbientPlayer.stream = AMBIENT_SKY
 		new_parent.queue_free()
 		var new_scene = load("res://Sky.tscn").instance()
 		new_scene.connect("collision",self,"_on_Portal_player_hit")
@@ -87,6 +90,7 @@ func switch_floor(player):
 		fade_scene.rect_position = find_player().position
 		#add_child(fade_scene)
 		play_music_new(MUSIC_EARTH)
+		$AmbientPlayer.stream = AMBIENT_EARTH
 		new_parent.queue_free()
 		var new_scene = load("res://Earth.tscn").instance()
 		new_scene.connect("collision",self,"_on_Portal_player_hit")

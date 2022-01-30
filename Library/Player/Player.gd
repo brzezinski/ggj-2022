@@ -84,8 +84,8 @@ func _physics_process(delta):
 			return 
 	get_input()
 	velocity = move_and_collide(cartesian_to_isometric(velocity * delta))
-	for i in get_slide_count():
-		var collision = get_slide_collision(i)
+#	for i in get_slide_count():
+#		var collision = get_slide_collision(i)
 
 #where we are?
 func check_level():
