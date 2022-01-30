@@ -16,4 +16,8 @@ volume_db = -20.0
 [node name="StartPosition" type="Position2D" parent="."]
 position = Vector2( 0, 1600 )
 
+[node name="WarpTimer" type="Timer" parent="."]
+wait_time = 1.5
+
 [connection signal="collision" from="Earth" to="." method="_on_Portal_player_hit"]
+[connection signal="timeout" from="WarpTimer" to="." method="_on_WarpTimer_timeout"]

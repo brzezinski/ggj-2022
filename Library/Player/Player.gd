@@ -7,6 +7,14 @@ func _ready():
 var SPEED = 100
 var velocity = Vector2()
 
+const STATE_WALKING = 1
+const STATE_FLYING = 2
+const STATE_UP = 3
+const STATE_DOWN = 4
+
+var state = STATE_WALKING
+
+#converting movement for izometric
 func cartesian_to_isometric(cartesian):
 	return Vector2(cartesian.x * 2 - cartesian.y, cartesian.x + cartesian.y / 2)
 	
@@ -27,6 +35,10 @@ func get_input():
 		$AnimatedSprite.play()
 	else:
 		$AnimatedSprite.stop()
+	
+	#reset sprite after flying
+	if $AnimatedSprite.animation == "up" || $AnimatedSprite.animation == "down":
+		$AnimatedSprite.animation = "idle"
 		
 	var which_level = check_level()	
 		
@@ -60,11 +72,34 @@ func get_input():
 		$AnimatedSprite.flip_h = true
 	
 func _physics_process(delta):
+	#if chaning level move character automaticaly
+	match state:
+		STATE_UP: 
+			velocity = move_and_collide(Vector2(0,-1)*SPEED*delta)
+			$AnimatedSprite.animation = "up"
+			return
+		STATE_DOWN:
+			velocity = move_and_collide(Vector2(0,1)*SPEED*delta)
+			$AnimatedSprite.animation = "down"
+			return 
 	get_input()
 	velocity = move_and_collide(cartesian_to_isometric(velocity * delta))
 	for i in get_slide_count():
 		var collision = get_slide_collision(i)
 
+#where we are?
 func check_level():
 	var check_parent = self.get_parent().get_parent().get_parent()
 	return check_parent.get_name()
+	
+func fly_up():
+	state = STATE_UP
+
+func fly_down():
+	state = STATE_DOWN
+	
+func walking():
+	state = STATE_WALKING
+	
+func flying():
+	state = STATE_FLYING
