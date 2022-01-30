@@ -16,6 +16,7 @@ func _on_Cat_body_entered(body):
 
 #when player will hit the cat
 func cat_pickup():
+	$CollisionPolygon2D.queue_free()
 	$AnimatedSprite.animation = "pickup"
 	$Meau.stream = CAT_SFX
 	$Meau.play()
