@@ -39,7 +39,7 @@ position = Vector2( 8, 250 )
 [node name="Items" type="YSort" parent="Environment"]
 
 [node name="Portal" parent="Environment/Items" instance=ExtResource( 3 )]
-position = Vector2( 165, 98 )
+position = Vector2( 392, 1608 )
 
 [node name="Cat3" parent="Environment/Items" instance=ExtResource( 5 )]
 position = Vector2( -306, 160 )
