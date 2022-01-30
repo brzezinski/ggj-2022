@@ -7,6 +7,7 @@ const AMBIENT_EARTH = preload("res://Library/Sfx/Environment/Birds.wav")
 const AMBIENT_SKY = preload("res://Library/Sfx/Environment/Clouds.wav")
 
 var fade_scene
+var cat_counter = 0
 
 var PreviousScene
 var player_position
@@ -21,6 +22,10 @@ func _ready():
 	if !fade_scene:
 		fade_scene = preload("res://FadeScene.tscn").instance()
 
+func cat_catched():
+	cat_counter += 1
+	return cat_counter
+	
 #prepare player for the level
 func prepare_player():
 	var player_root = get_tree().get_root().get_node("Main/Earth/Environment/Player")
