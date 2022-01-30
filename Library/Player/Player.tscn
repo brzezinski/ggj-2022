@@ -43,6 +43,11 @@ animations = [ {
 "name": "fly",
 "speed": 3.0
 }, {
+"frames": [ ExtResource( 16 ), ExtResource( 4 ), ExtResource( 6 ), ExtResource( 18 ) ],
+"loop": true,
+"name": "walk",
+"speed": 6.0
+}, {
 "frames": [ ExtResource( 9 ) ],
 "loop": true,
 "name": "down",
@@ -52,11 +57,6 @@ animations = [ {
 "loop": true,
 "name": "fly-b",
 "speed": 3.0
-}, {
-"frames": [ ExtResource( 16 ), ExtResource( 4 ), ExtResource( 6 ), ExtResource( 18 ) ],
-"loop": true,
-"name": "walk",
-"speed": 6.0
 } ]
 
 [node name="Player" type="KinematicBody2D"]
@@ -81,3 +81,5 @@ margin_bottom = -680.0
 position = Vector2( 0, -30 )
 frames = SubResource( 1 )
 animation = "idle"
+
+[node name="AudioStreamPlayer" type="AudioStreamPlayer" parent="."]

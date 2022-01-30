@@ -93,9 +93,13 @@ func check_level():
 	return check_parent.get_name()
 	
 func fly_up():
+	$AudioStreamPlayer.stream = load("res://Library/Sfx/Actions/jump_up.wav")
+	$AudioStreamPlayer.play()
 	state = STATE_UP
 
 func fly_down():
+	$AudioStreamPlayer.stream = load("res://Library/Sfx/Actions/jump_down.wav")
+	$AudioStreamPlayer.play()
 	state = STATE_DOWN
 	
 func walking():
