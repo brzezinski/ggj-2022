@@ -6,7 +6,7 @@ func _ready():
 
 func cat_catched():
 	var cat_counter = get_tree().current_scene.cat_catched()
-	$CatCounter.text = "%s / 34" % cat_counter
+	$CatCounter.text = "%s" % cat_counter
 	
 # Called every frame. 'delta' is the elapsed time since the previous frame.
 #func _process(delta):
