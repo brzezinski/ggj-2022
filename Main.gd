@@ -17,6 +17,7 @@ func _ready():
 	var player_root = get_tree().get_root().get_node("Main/Earth/Environment/Player")
 	var new_player = load("res://Library/Player/Player.tscn").instance()
 	new_player.add_to_group("player", true)
+	new_player.position = $StartPosition.position
 	player_root.add_child(new_player)
 	if !fade_scene:
 		fade_scene = preload("res://FadeScene.tscn").instance()

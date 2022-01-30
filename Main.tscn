@@ -13,4 +13,7 @@ volume_db = -20.0
 
 [node name="SfxPlayer" type="AudioStreamPlayer2D" parent="."]
 
+[node name="StartPosition" type="Position2D" parent="."]
+position = Vector2( 0, 1600 )
+
 [connection signal="collision" from="Earth" to="." method="_on_Portal_player_hit"]

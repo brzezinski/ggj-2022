@@ -1,0 +1,22 @@
+[remap]
+
+importer="vnen.tiled_importer"
+type="PackedScene"
+path="res://.import/nowy-tileset.tmx-22a4cc77c28207449bacd63a1dcdaeb0.scn"
+
+[deps]
+
+source_file="res://Library/Tiles/new/nowy-tileset.tmx"
+dest_files=[ "res://.import/nowy-tileset.tmx-22a4cc77c28207449bacd63a1dcdaeb0.scn" ]
+
+[params]
+
+custom_properties=true
+tile_metadata=true
+uv_clip=true
+image_flags=7
+collision_layer=1
+embed_internal_images=false
+save_tiled_properties=false
+add_background=true
+post_import_script=""

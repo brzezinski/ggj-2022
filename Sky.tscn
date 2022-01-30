@@ -1,10 +1,11 @@
-[gd_scene load_steps=6 format=2]
+[gd_scene load_steps=7 format=2]
 
 [ext_resource path="res://Library/Tiles/nowy-tileset.tsx" type="TileSet" id=1]
 [ext_resource path="res://Library/Walls.tscn" type="PackedScene" id=2]
 [ext_resource path="res://Library/Portal.tscn" type="PackedScene" id=3]
 [ext_resource path="res://Sky.gd" type="Script" id=4]
 [ext_resource path="res://Library/Cat/Cat.tscn" type="PackedScene" id=5]
+[ext_resource path="res://Library/Tiles/Niebo.tscn" type="PackedScene" id=6]
 
 [node name="Sky" type="Node2D"]
 script = ExtResource( 4 )
@@ -12,6 +13,7 @@ script = ExtResource( 4 )
 [node name="Environment" type="YSort" parent="."]
 
 [node name="Ground" type="TileMap" parent="Environment"]
+visible = false
 z_index = -1
 mode = 1
 tile_set = ExtResource( 1 )
@@ -28,6 +30,9 @@ polygon = PoolVector2Array( 24, 80, -32, 56, -8, 40, -32, 24, -56, 40, -128, 0, 
 
 [node name="CollisionPolygon2D2" type="CollisionPolygon2D" parent="Environment/Ground/StaticBody2D"]
 polygon = PoolVector2Array( -208, -48, -152, -24, -104, -32, -56, -16, -8, -32, 40, -16, 120, -56, 32, -104, 0, -88, -32, -112, -56, -88, -96, -104 )
+
+[node name="Niebo" parent="Environment" instance=ExtResource( 6 )]
+z_index = -100
 
 [node name="Player" type="YSort" parent="Environment"]
 
