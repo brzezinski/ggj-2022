@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Birds.wav-13858e4e579ca68e1e17eff8d41943aa.sample"
+
+[deps]
+
+source_file="res://Library/Sfx/Environment/Birds.wav"
+dest_files=[ "res://.import/Birds.wav-13858e4e579ca68e1e17eff8d41943aa.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

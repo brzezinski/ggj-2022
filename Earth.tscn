@@ -1,7 +1,8 @@
-[gd_scene load_steps=5 format=2]
+[gd_scene load_steps=6 format=2]
 
 [ext_resource path="res://Library/Tiles/nowy-tileset.tsx" type="TileSet" id=1]
 [ext_resource path="res://Earth.gd" type="Script" id=2]
+[ext_resource path="res://Library/Cat/Cat.tscn" type="PackedScene" id=3]
 [ext_resource path="res://Library/CollisionElement.tscn" type="PackedScene" id=5]
 [ext_resource path="res://Library/Portal.tscn" type="PackedScene" id=6]
 
@@ -33,5 +34,13 @@ format = 1
 
 [node name="Portal" parent="Environment/Items" instance=ExtResource( 6 )]
 position = Vector2( 352, -160 )
+
+[node name="Cat" parent="Environment/Items" instance=ExtResource( 3 )]
+position = Vector2( -224, -256 )
+
+[node name="Cat2" parent="Environment/Items" instance=ExtResource( 3 )]
+position = Vector2( -8, -488 )
+
+[node name="Cat3" parent="Environment/Items" instance=ExtResource( 3 )]
 
 [connection signal="player_hit" from="Environment/Items/Portal" to="." method="_on_Portal_player_hit"]
