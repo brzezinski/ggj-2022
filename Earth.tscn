@@ -149,6 +149,192 @@ position = Vector2( -96, 351 )
 [node name="WallWindows62" parent="Environment/Walls" instance=ExtResource( 4 )]
 position = Vector2( -801, 544 )
 
+[node name="WallWindows63" parent="Environment/Walls" instance=ExtResource( 4 )]
+position = Vector2( -832, 560 )
+
+[node name="WallWindows64" parent="Environment/Walls" instance=ExtResource( 4 )]
+position = Vector2( -863, 575 )
+
+[node name="WallWindows65" parent="Environment/Walls" instance=ExtResource( 4 )]
+position = Vector2( -896, 591 )
+
+[node name="WallWindows66" parent="Environment/Walls" instance=ExtResource( 4 )]
+position = Vector2( -929, 608 )
+
+[node name="WallWindows67" parent="Environment/Walls" instance=ExtResource( 4 )]
+position = Vector2( -1056, 1024 )
+
+[node name="WallWindows68" parent="Environment/Walls" instance=ExtResource( 4 )]
+position = Vector2( -1024, 1007 )
+
+[node name="WallWindows69" parent="Environment/Walls" instance=ExtResource( 4 )]
+position = Vector2( -992, 992 )
+
+[node name="WallWindows70" parent="Environment/Walls" instance=ExtResource( 4 )]
+position = Vector2( -1025, 976 )
+
+[node name="WallWindows71" parent="Environment/Walls" instance=ExtResource( 4 )]
+position = Vector2( -992, 960 )
+
+[node name="WallWindows72" parent="Environment/Walls" instance=ExtResource( 4 )]
+position = Vector2( -1537, 1136 )
+
+[node name="WallWindows73" parent="Environment/Walls" instance=ExtResource( 4 )]
+position = Vector2( -1568, 1151 )
+
+[node name="WallWindows74" parent="Environment/Walls" instance=ExtResource( 4 )]
+position = Vector2( -1600, 1168 )
+
+[node name="WallWindows75" parent="Environment/Walls" instance=ExtResource( 4 )]
+position = Vector2( -1632, 1183 )
+
+[node name="WallWindows76" parent="Environment/Walls" instance=ExtResource( 4 )]
+position = Vector2( -1600, 1264 )
+
+[node name="WallWindows77" parent="Environment/Walls" instance=ExtResource( 4 )]
+position = Vector2( -1633, 1249 )
+
+[node name="WallWindows78" parent="Environment/Walls" instance=ExtResource( 4 )]
+position = Vector2( -1696, 1248 )
+
+[node name="WallWindows79" parent="Environment/Walls" instance=ExtResource( 4 )]
+position = Vector2( -1697, 1183 )
+
+[node name="WallWindows80" parent="Environment/Walls" instance=ExtResource( 4 )]
+position = Vector2( -1664, 1200 )
+
+[node name="WallWindows81" parent="Environment/Walls" instance=ExtResource( 4 )]
+position = Vector2( -1665, 1232 )
+
+[node name="WallWindows82" parent="Environment/Walls" instance=ExtResource( 4 )]
+position = Vector2( -1697, 1216 )
+
+[node name="WallWindows83" parent="Environment/Walls" instance=ExtResource( 4 )]
+position = Vector2( -1728, 1231 )
+
+[node name="WallWindows84" parent="Environment/Walls" instance=ExtResource( 4 )]
+position = Vector2( -1761, 1248 )
+
+[node name="WallWindows85" parent="Environment/Walls" instance=ExtResource( 4 )]
+position = Vector2( -1794, 1231 )
+
+[node name="WallWindows86" parent="Environment/Walls" instance=ExtResource( 4 )]
+position = Vector2( -1825, 1216 )
+
+[node name="WallWindows87" parent="Environment/Walls" instance=ExtResource( 4 )]
+position = Vector2( -1858, 1199 )
+
+[node name="WallWindows88" parent="Environment/Walls" instance=ExtResource( 4 )]
+position = Vector2( -1695, 2144 )
+
+[node name="WallWindows89" parent="Environment/Walls" instance=ExtResource( 4 )]
+position = Vector2( -1664, 2127 )
+
+[node name="WallWindows90" parent="Environment/Walls" instance=ExtResource( 4 )]
+position = Vector2( -1697, 2111 )
+
+[node name="WallWindows91" parent="Environment/Walls" instance=ExtResource( 4 )]
+position = Vector2( -1857, 2159 )
+
+[node name="WallWindows92" parent="Environment/Walls" instance=ExtResource( 4 )]
+position = Vector2( -1824, 2144 )
+
+[node name="WallWindows93" parent="Environment/Walls" instance=ExtResource( 4 )]
+position = Vector2( -1890, 2144 )
+
+[node name="WallWindows94" parent="Environment/Walls" instance=ExtResource( 4 )]
+position = Vector2( -1985, 1968 )
+
+[node name="WallWindows95" parent="Environment/Walls" instance=ExtResource( 4 )]
+position = Vector2( -1952, 1951 )
+
+[node name="WallWindows96" parent="Environment/Walls" instance=ExtResource( 4 )]
+position = Vector2( -1698, 1984 )
+
+[node name="WallWindows97" parent="Environment/Walls" instance=ExtResource( 4 )]
+position = Vector2( -1664, 1967 )
+
+[node name="WallWindows98" parent="Environment/Walls" instance=ExtResource( 4 )]
+position = Vector2( -1697, 1952 )
+
+[node name="WallWindows99" parent="Environment/Walls" instance=ExtResource( 4 )]
+position = Vector2( -1697, 1824 )
+
+[node name="WallWindows100" parent="Environment/Walls" instance=ExtResource( 4 )]
+position = Vector2( -1665, 1840 )
+
+[node name="WallWindows101" parent="Environment/Walls" instance=ExtResource( 4 )]
+position = Vector2( -1666, 1873 )
+
+[node name="WallWindows102" parent="Environment/Walls" instance=ExtResource( 4 )]
+position = Vector2( -1666, 1905 )
+
+[node name="WallWindows103" parent="Environment/Walls" instance=ExtResource( 4 )]
+position = Vector2( -1632, 1856 )
+
+[node name="WallWindows104" parent="Environment/Walls" instance=ExtResource( 4 )]
+position = Vector2( -1569, 1888 )
+
+[node name="WallWindows105" parent="Environment/Walls" instance=ExtResource( 4 )]
+position = Vector2( -1634, 1888 )
+
+[node name="WallWindows106" parent="Environment/Walls" instance=ExtResource( 4 )]
+position = Vector2( -1599, 1903 )
+
+[node name="WallWindows107" parent="Environment/Walls" instance=ExtResource( 4 )]
+position = Vector2( -1631, 1920 )
+
+[node name="WallWindows108" parent="Environment/Walls" instance=ExtResource( 4 )]
+position = Vector2( -1666, 1937 )
+
+[node name="WallWindows109" parent="Environment/Walls" instance=ExtResource( 4 )]
+position = Vector2( -2240, 1808 )
+
+[node name="WallWindows110" parent="Environment/Walls" instance=ExtResource( 4 )]
+position = Vector2( -2208, 1792 )
+
+[node name="WallWindows111" parent="Environment/Walls" instance=ExtResource( 4 )]
+position = Vector2( -2147, 1696 )
+
+[node name="WallWindows112" parent="Environment/Walls" instance=ExtResource( 4 )]
+position = Vector2( -2113, 1680 )
+
+[node name="WallWindows113" parent="Environment/Walls" instance=ExtResource( 4 )]
+position = Vector2( -2401, 1504 )
+
+[node name="WallWindows114" parent="Environment/Walls" instance=ExtResource( 4 )]
+position = Vector2( -2433, 1488 )
+
+[node name="WallWindows115" parent="Environment/Walls" instance=ExtResource( 4 )]
+position = Vector2( -2400, 1472 )
+
+[node name="WallWindows116" parent="Environment/Walls" instance=ExtResource( 4 )]
+position = Vector2( -2368, 1488 )
+
+[node name="WallWindows117" parent="Environment/Walls" instance=ExtResource( 4 )]
+position = Vector2( -2273, 1440 )
+
+[node name="WallWindows118" parent="Environment/Walls" instance=ExtResource( 4 )]
+position = Vector2( -2209, 1440 )
+
+[node name="WallWindows119" parent="Environment/Walls" instance=ExtResource( 4 )]
+position = Vector2( -2176, 1423 )
+
+[node name="WallWindows120" parent="Environment/Walls" instance=ExtResource( 4 )]
+position = Vector2( -2114, 1424 )
+
+[node name="WallWindows121" parent="Environment/Walls" instance=ExtResource( 4 )]
+position = Vector2( -2081, 1408 )
+
+[node name="WallWindows122" parent="Environment/Walls" instance=ExtResource( 4 )]
+position = Vector2( -2144, 1408 )
+
+[node name="WallWindows123" parent="Environment/Walls" instance=ExtResource( 4 )]
+position = Vector2( -2209, 1408 )
+
+[node name="WallWindows124" parent="Environment/Walls" instance=ExtResource( 4 )]
+position = Vector2( -2242, 1424 )
+
 [node name="WallWindows43" parent="Environment/Walls" instance=ExtResource( 4 )]
 position = Vector2( 30, 512 )
 
@@ -1325,6 +1511,9 @@ position = Vector2( 1473, 2384 )
 [node name="Wall375" parent="Environment/Walls" instance=ExtResource( 7 )]
 position = Vector2( 1504, 2368 )
 
+[node name="Wall1200" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( 1536, 2352 )
+
 [node name="Wall376" parent="Environment/Walls" instance=ExtResource( 7 )]
 position = Vector2( 2111, 1905 )
 
@@ -2251,6 +2440,1758 @@ position = Vector2( 30, 159 )
 
 [node name="Wall731" parent="Environment/Walls" instance=ExtResource( 7 )]
 position = Vector2( -1, 144 )
+
+[node name="Wall740" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( 1, 79 )
+
+[node name="Wall741" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( 63, 81 )
+
+[node name="Wall742" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( 479, 225 )
+
+[node name="Wall743" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( 445, 206 )
+
+[node name="Wall744" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( 415, 192 )
+
+[node name="Wall745" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( 383, 176 )
+
+[node name="Wall746" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( 351, 160 )
+
+[node name="Wall747" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( 321, 144 )
+
+[node name="Wall748" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( 288, 127 )
+
+[node name="Wall749" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( 256, 113 )
+
+[node name="Wall750" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( 192, 112 )
+
+[node name="Wall751" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( 160, 96 )
+
+[node name="Wall752" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( 127, 79 )
+
+[node name="Wall753" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( 223, 95 )
+
+[node name="Wall754" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( 97, 64 )
+
+[node name="Wall755" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( 34, 63 )
+
+[node name="Wall756" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -32, 64 )
+
+[node name="Wall757" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -63, 79 )
+
+[node name="Wall758" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -96, 97 )
+
+[node name="Wall759" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -128, 112 )
+
+[node name="Wall760" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -161, 128 )
+
+[node name="Wall761" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -191, 144 )
+
+[node name="Wall762" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -224, 160 )
+
+[node name="Wall763" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -256, 144 )
+
+[node name="Wall764" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -287, 159 )
+
+[node name="Wall765" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -320, 175 )
+
+[node name="Wall766" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -352, 191 )
+
+[node name="Wall767" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -352, 225 )
+
+[node name="Wall768" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -383, 208 )
+
+[node name="Wall769" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -384, 239 )
+
+[node name="Wall770" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -416, 256 )
+
+[node name="Wall771" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -448, 271 )
+
+[node name="Wall772" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -480, 287 )
+
+[node name="Wall773" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -511, 304 )
+
+[node name="Wall774" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -545, 321 )
+
+[node name="Wall775" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -575, 305 )
+
+[node name="Wall776" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -608, 320 )
+
+[node name="Wall777" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -640, 335 )
+
+[node name="Wall778" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -672, 352 )
+
+[node name="Wall779" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -640, 368 )
+
+[node name="Wall780" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -671, 384 )
+
+[node name="Wall781" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -705, 367 )
+
+[node name="Wall782" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -480, 385 )
+
+[node name="Wall783" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -449, 368 )
+
+[node name="Wall784" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -416, 384 )
+
+[node name="Wall785" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -384, 400 )
+
+[node name="Wall786" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -417, 416 )
+
+[node name="Wall787" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -384, 432 )
+
+[node name="Wall788" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -384, 464 )
+
+[node name="Wall789" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -384, 495 )
+
+[node name="Wall790" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -352, 449 )
+
+[node name="Wall791" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -351, 480 )
+
+[node name="Wall792" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -352, 512 )
+
+[node name="Wall793" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -385, 528 )
+
+[node name="Wall794" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -383, 559 )
+
+[node name="Wall795" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -350, 544 )
+
+[node name="Wall796" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -319, 560 )
+
+[node name="Wall798" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -256, 560 )
+
+[node name="Wall799" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -223, 543 )
+
+[node name="Wall800" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -193, 560 )
+
+[node name="Wall801" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -160, 608 )
+
+[node name="Wall802" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -161, 575 )
+
+[node name="Wall803" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -127, 560 )
+
+[node name="Wall804" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -96, 512 )
+
+[node name="Wall805" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -96, 480 )
+
+[node name="Wall806" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -63, 465 )
+
+[node name="Wall807" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -32, 481 )
+
+[node name="Wall809" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -63, 496 )
+
+[node name="Wall810" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -129, 528 )
+
+[node name="Wall811" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -160, 544 )
+
+[node name="Wall812" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -128, 592 )
+
+[node name="Wall813" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -127, 624 )
+
+[node name="Wall814" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -128, 656 )
+
+[node name="Wall815" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -95, 640 )
+
+[node name="Wall816" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -96, 672 )
+
+[node name="Wall817" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -96, 704 )
+
+[node name="Wall818" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -96, 736 )
+
+[node name="Wall819" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -96, 768 )
+
+[node name="Wall820" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -128, 785 )
+
+[node name="Wall821" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -128, 753 )
+
+[node name="Wall822" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -160, 800 )
+
+[node name="Wall823" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -161, 831 )
+
+[node name="Wall824" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -320, 1168 )
+
+[node name="Wall825" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -320, 1136 )
+
+[node name="Wall826" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -319, 1105 )
+
+[node name="Wall827" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -353, 1120 )
+
+[node name="Wall828" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -352, 1087 )
+rotation = 0.00143226
+
+[node name="Wall829" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -352, 1055 )
+rotation = 0.00143226
+
+[node name="Wall830" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -320, 1073 )
+rotation = 0.00143226
+
+[node name="Wall831" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -320, 1040 )
+rotation = 0.00143226
+
+[node name="Wall832" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -288, 1025 )
+rotation = 0.00143226
+
+[node name="Wall833" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -321, 1009 )
+rotation = 0.00143226
+
+[node name="Wall834" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -288, 992 )
+rotation = 0.00143226
+
+[node name="Wall835" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -256, 977 )
+rotation = 0.00143226
+
+[node name="Wall836" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -288, 960 )
+rotation = 0.00143226
+
+[node name="Wall837" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -256, 944 )
+rotation = 0.00143226
+
+[node name="Wall838" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -224, 927 )
+rotation = 0.00143226
+
+[node name="Wall839" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -192, 881 )
+rotation = 0.00143226
+
+[node name="Wall840" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -193, 848 )
+rotation = 0.00143226
+
+[node name="Wall841" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -223, 895 )
+rotation = 0.00143226
+
+[node name="Wall842" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -257, 911 )
+rotation = 0.00143226
+
+[node name="Wall843" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -416, 575 )
+rotation = 0.00143226
+
+[node name="Wall844" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -448, 591 )
+rotation = 0.00143226
+
+[node name="Wall845" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -480, 576 )
+rotation = 0.00143226
+
+[node name="Wall846" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -512, 592 )
+rotation = 0.00143226
+
+[node name="Wall847" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -545, 608 )
+rotation = 0.00143226
+
+[node name="Wall848" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -609, 608 )
+rotation = 0.00143226
+
+[node name="Wall849" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -639, 623 )
+rotation = 0.00143226
+
+[node name="Wall850" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -672, 640 )
+rotation = 0.00143226
+
+[node name="Wall851" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -703, 655 )
+rotation = 0.00143226
+
+[node name="Wall852" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -704, 688 )
+rotation = 0.00143226
+
+[node name="Wall853" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -737, 672 )
+rotation = 0.00143226
+
+[node name="Wall854" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -768, 719 )
+rotation = 0.00143226
+
+[node name="Wall855" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -737, 703 )
+rotation = 0.00143226
+
+[node name="Wall856" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -736, 735 )
+rotation = 0.00143226
+
+[node name="Wall857" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1152, 624 )
+rotation = 0.00143226
+
+[node name="Wall858" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1121, 608 )
+rotation = 0.00143226
+
+[node name="Wall859" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1088, 592 )
+rotation = 0.00143226
+
+[node name="Wall860" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1057, 576 )
+rotation = 0.00143226
+
+[node name="Wall861" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1024, 561 )
+rotation = 0.00143226
+
+[node name="Wall862" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -992, 543 )
+rotation = 0.00143226
+
+[node name="Wall863" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -960, 529 )
+rotation = 0.00143226
+
+[node name="Wall864" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -929, 512 )
+rotation = 0.00143226
+
+[node name="Wall865" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -896, 495 )
+rotation = 0.00143226
+
+[node name="Wall866" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -864, 479 )
+rotation = 0.00143226
+
+[node name="Wall867" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -832, 464 )
+rotation = 0.00143226
+
+[node name="Wall868" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -800, 448 )
+rotation = 0.00143226
+
+[node name="Wall869" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -768, 431 )
+rotation = 0.00143226
+
+[node name="Wall870" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -736, 415 )
+rotation = 0.00143226
+
+[node name="Wall871" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -705, 400 )
+rotation = 0.00143226
+
+[node name="Wall872" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1183, 608 )
+rotation = 0.00143226
+
+[node name="Wall873" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1216, 624 )
+rotation = 0.00143226
+
+[node name="Wall874" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1248, 639 )
+rotation = 0.00143226
+
+[node name="Wall875" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1280, 656 )
+rotation = 0.00143226
+
+[node name="Wall876" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1311, 671 )
+rotation = 0.00143226
+
+[node name="Wall877" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1344, 689 )
+rotation = 0.00143226
+
+[node name="Wall878" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1376, 704 )
+rotation = 0.00143226
+
+[node name="Wall879" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1375, 736 )
+rotation = 0.00143226
+
+[node name="Wall880" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1407, 752 )
+rotation = 0.00143226
+
+[node name="Wall881" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1440, 737 )
+rotation = 0.00143226
+
+[node name="Wall882" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1473, 720 )
+rotation = 0.00143226
+
+[node name="Wall883" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1184, 768 )
+rotation = 0.00143226
+
+[node name="Wall884" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1152, 785 )
+rotation = 0.00143226
+
+[node name="Wall885" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1120, 800 )
+rotation = 0.00143226
+
+[node name="Wall886" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1088, 816 )
+rotation = 0.00143226
+
+[node name="Wall887" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1121, 832 )
+rotation = 0.00143226
+
+[node name="Wall888" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1120, 865 )
+rotation = 0.00143226
+
+[node name="Wall889" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1088, 849 )
+rotation = 0.00143226
+
+[node name="Wall890" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1088, 880 )
+rotation = 0.00143226
+
+[node name="Wall891" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1087, 911 )
+rotation = 0.00143226
+
+[node name="Wall892" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -801, 832 )
+rotation = 0.00143226
+
+[node name="Wall895" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -800, 801 )
+rotation = 0.00143226
+
+[node name="Wall896" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -800, 768 )
+rotation = 0.00143226
+
+[node name="Wall897" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -768, 751 )
+rotation = 0.00143226
+
+[node name="Wall898" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -768, 783 )
+rotation = 0.00143226
+
+[node name="Wall899" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -768, 816 )
+rotation = 0.00143226
+
+[node name="Wall900" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -768, 848 )
+rotation = 0.00143226
+
+[node name="Wall901" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -736, 863 )
+rotation = 0.00143226
+
+[node name="Wall902" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -704, 880 )
+rotation = 0.00143226
+
+[node name="Wall903" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -736, 896 )
+rotation = 0.00143226
+
+[node name="Wall904" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -704, 912 )
+rotation = 0.00143226
+
+[node name="Wall905" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -737, 928 )
+rotation = 0.00143226
+
+[node name="Wall906" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -704, 945 )
+rotation = 0.00143226
+
+[node name="Wall907" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -735, 960 )
+rotation = 0.00143226
+
+[node name="Wall908" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -704, 977 )
+rotation = 0.00143226
+
+[node name="Wall909" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -735, 993 )
+rotation = 0.00143226
+
+[node name="Wall910" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -767, 1009 )
+rotation = 0.00143226
+
+[node name="Wall911" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -735, 1024 )
+rotation = 0.00143226
+
+[node name="Wall912" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -767, 1040 )
+rotation = 0.00143226
+
+[node name="Wall913" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -799, 1023 )
+rotation = 0.00143226
+
+[node name="Wall914" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1023, 1199 )
+rotation = 0.00143226
+
+[node name="Wall915" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -993, 1216 )
+rotation = 0.00143226
+
+[node name="Wall916" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -929, 1216 )
+rotation = 0.00143226
+
+[node name="Wall917" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -896, 1232 )
+rotation = 0.00143226
+
+[node name="Wall918" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -862, 1215 )
+rotation = 0.00143226
+
+[node name="Wall919" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -834, 1232 )
+rotation = 0.00143226
+
+[node name="Wall921" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -834, 1232 )
+rotation = 0.00143226
+
+[node name="Wall920" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -768, 1232 )
+rotation = 0.00143226
+
+[node name="Wall922" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -800, 1247 )
+rotation = 0.00143226
+
+[node name="Wall923" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -736, 1249 )
+rotation = 0.00143226
+
+[node name="Wall924" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -704, 1265 )
+rotation = 0.00143226
+
+[node name="Wall925" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -704, 1297 )
+rotation = 0.00143226
+
+[node name="Wall926" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -672, 1280 )
+rotation = 0.00143226
+
+[node name="Wall927" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -671, 1313 )
+rotation = 0.00143226
+
+[node name="Wall928" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -672, 1344 )
+rotation = 0.00143226
+
+[node name="Wall929" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -705, 1360 )
+rotation = 0.00143226
+
+[node name="Wall930" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -704, 1328 )
+rotation = 0.00143226
+
+[node name="Wall931" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -736, 1343 )
+rotation = 0.00143226
+
+[node name="Wall932" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -767, 1360 )
+rotation = 0.00143226
+
+[node name="Wall933" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1055, 1153 )
+rotation = 0.00143226
+
+[node name="Wall934" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1056, 1120 )
+rotation = 0.00143226
+
+[node name="Wall935" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1024, 1137 )
+rotation = 0.00143226
+
+[node name="Wall936" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1024, 1169 )
+rotation = 0.00143226
+
+[node name="Wall937" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -991, 1184 )
+rotation = 0.00143226
+
+[node name="Wall938" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -959, 1200 )
+rotation = 0.00143226
+
+[node name="Wall939" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -992, 1089 )
+rotation = 0.00143226
+
+[node name="Wall941" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -959, 1072 )
+rotation = 0.00143226
+
+[node name="Wall942" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -927, 1056 )
+rotation = 0.00143226
+
+[node name="Wall943" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -896, 1072 )
+rotation = 0.00143226
+
+[node name="Wall944" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -864, 1056 )
+rotation = 0.00143226
+
+[node name="Wall945" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -831, 1039 )
+rotation = 0.00143226
+
+[node name="Wall946" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1216, 1008 )
+rotation = 0.00143226
+
+[node name="Wall951" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1248, 1024 )
+rotation = 0.00143226
+
+[node name="Wall952" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1279, 1039 )
+rotation = 0.00143226
+
+[node name="Wall953" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1280, 1071 )
+rotation = 0.00143226
+
+[node name="Wall954" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1311, 1089 )
+rotation = 0.00143226
+
+[node name="Wall955" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1345, 1104 )
+rotation = 0.00143226
+
+[node name="Wall956" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1312, 1120 )
+rotation = 0.00143226
+
+[node name="Wall957" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1343, 1136 )
+rotation = 0.00143226
+
+[node name="Wall958" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1343, 1167 )
+rotation = 0.00143226
+
+[node name="Wall959" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1376, 1184 )
+rotation = 0.00143226
+
+[node name="Wall960" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1408, 1200 )
+rotation = 0.00143226
+
+[node name="Wall961" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1408, 1232 )
+rotation = 0.00143226
+
+[node name="Wall962" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1375, 1216 )
+rotation = 0.00143226
+
+[node name="Wall963" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1375, 1248 )
+rotation = 0.00143226
+
+[node name="Wall964" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1376, 1279 )
+rotation = 0.00143226
+
+[node name="Wall965" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1343, 1265 )
+rotation = 0.00143226
+
+[node name="Wall966" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1344, 1297 )
+rotation = 0.00143226
+
+[node name="Wall967" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1310, 1313 )
+rotation = 0.00143226
+
+[node name="Wall968" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1279, 1328 )
+rotation = 0.00143226
+
+[node name="Wall969" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1250, 1344 )
+rotation = 0.00143226
+
+[node name="Wall970" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1056, 1472 )
+rotation = 0.00143226
+
+[node name="Wall971" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1025, 1487 )
+rotation = 0.00143226
+
+[node name="Wall972" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1120, 1471 )
+rotation = 0.00143226
+
+[node name="Wall973" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1152, 1456 )
+rotation = 0.00143226
+
+[node name="Wall974" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1183, 1440 )
+rotation = 0.00143226
+
+[node name="Wall975" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1216, 1424 )
+rotation = 0.00143226
+
+[node name="Wall976" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1249, 1408 )
+rotation = 0.00143226
+
+[node name="Wall977" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1281, 1392 )
+rotation = 0.00143226
+
+[node name="Wall978" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1312, 1407 )
+rotation = 0.00143226
+
+[node name="Wall979" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -800, 1377 )
+rotation = 0.00143226
+
+[node name="Wall980" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -832, 1392 )
+rotation = 0.00143226
+
+[node name="Wall981" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -864, 1408 )
+rotation = 0.00143226
+
+[node name="Wall982" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -896, 1423 )
+rotation = 0.00143226
+
+[node name="Wall983" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -896, 1455 )
+rotation = 0.00143226
+
+[node name="Wall984" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -927, 1471 )
+rotation = 0.00143226
+
+[node name="Wall985" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -961, 1488 )
+rotation = 0.00143226
+
+[node name="Wall986" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -960, 1520 )
+rotation = 0.00143226
+
+[node name="Wall987" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -961, 1552 )
+rotation = 0.00143226
+
+[node name="Wall988" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -960, 1584 )
+rotation = 0.00143226
+
+[node name="Wall989" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -960, 1617 )
+rotation = 0.00143226
+
+[node name="Wall990" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -960, 1647 )
+rotation = 0.00143226
+
+[node name="Wall991" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -960, 1680 )
+rotation = 0.00143226
+
+[node name="Wall992" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -928, 1632 )
+rotation = 0.00143226
+
+[node name="Wall993" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -928, 1600 )
+rotation = 0.00143226
+
+[node name="Wall994" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -928, 1568 )
+rotation = 0.00143226
+
+[node name="Wall995" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -928, 1535 )
+rotation = 0.00143226
+
+[node name="Wall996" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -928, 1504 )
+rotation = 0.00143226
+
+[node name="Wall997" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -704, 1649 )
+rotation = 0.00143226
+
+[node name="Wall998" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -736, 1664 )
+rotation = 0.00143226
+
+[node name="Wall999" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -704, 1681 )
+rotation = 0.00143226
+
+[node name="Wall1000" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -736, 1696 )
+rotation = 0.00143226
+
+[node name="Wall1001" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -737, 1729 )
+rotation = 0.00143226
+
+[node name="Wall1002" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -704, 1712 )
+rotation = 0.00143226
+
+[node name="Wall1003" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -736, 1760 )
+rotation = 0.00143226
+
+[node name="Wall1004" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -769, 1777 )
+rotation = 0.00143226
+
+[node name="Wall1005" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -800, 1793 )
+rotation = 0.00143226
+
+[node name="Wall1006" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -768, 1809 )
+rotation = 0.00143226
+
+[node name="Wall1007" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -800, 1824 )
+rotation = 0.00143226
+
+[node name="Wall1008" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -833, 1840 )
+rotation = 0.00143226
+
+[node name="Wall1009" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -800, 1856 )
+rotation = 0.00143226
+
+[node name="Wall1010" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -833, 1873 )
+rotation = 0.00143226
+
+[node name="Wall1011" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -831, 1905 )
+rotation = 0.00143226
+
+[node name="Wall1012" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -864, 1920 )
+rotation = 0.00143226
+
+[node name="Wall1013" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -832, 1937 )
+rotation = 0.00143226
+
+[node name="Wall1014" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -864, 1952 )
+rotation = 0.00143226
+
+[node name="Wall1015" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -864, 1984 )
+rotation = 0.00143226
+
+[node name="Wall1016" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -832, 2000 )
+rotation = 0.00143226
+
+[node name="Wall1017" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -831, 1967 )
+rotation = 0.00143226
+
+[node name="Wall1018" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1280, 1967 )
+rotation = 0.00143226
+
+[node name="Wall1019" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1216, 2481 )
+rotation = 0.00143226
+
+[node name="Wall1020" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1247, 2464 )
+rotation = 0.00143226
+
+[node name="Wall1021" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1216, 2448 )
+rotation = 0.00143226
+
+[node name="Wall1022" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1248, 2432 )
+rotation = 0.00143226
+
+[node name="Wall1023" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1249, 2400 )
+rotation = 0.00143226
+
+[node name="Wall1024" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1216, 2416 )
+rotation = 0.00143226
+
+[node name="Wall1025" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1216, 2384 )
+rotation = 0.00143226
+
+[node name="Wall1026" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1248, 2367 )
+rotation = 0.00143226
+
+[node name="Wall1027" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1280, 2352 )
+rotation = 0.00143226
+
+[node name="Wall1028" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1313, 2337 )
+rotation = 0.00143226
+
+[node name="Wall1029" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1345, 2353 )
+rotation = 0.00143226
+
+[node name="Wall1030" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1376, 2336 )
+rotation = 0.00143226
+
+[node name="Wall1031" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1439, 2335 )
+rotation = 0.00143226
+
+[node name="Wall1032" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1407, 2320 )
+rotation = 0.00143226
+
+[node name="Wall1033" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1472, 2320 )
+rotation = 0.00143226
+
+[node name="Wall1034" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1505, 2304 )
+rotation = 0.00143226
+
+[node name="Wall1035" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1536, 2288 )
+rotation = 0.00143226
+
+[node name="Wall1036" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1569, 2240 )
+rotation = 0.00143226
+
+[node name="Wall1037" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1537, 2256 )
+rotation = 0.00143226
+
+[node name="Wall1038" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1503, 2273 )
+rotation = 0.00143226
+
+[node name="Wall1039" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1535, 2224 )
+rotation = 0.00143226
+
+[node name="Wall1040" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1569, 2208 )
+rotation = 0.00143226
+
+[node name="Wall1041" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1568, 2177 )
+rotation = 0.00143226
+
+[node name="Wall1042" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1568, 2143 )
+rotation = 0.00143226
+
+[node name="Wall1043" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1568, 2113 )
+rotation = 0.00143226
+
+[node name="Wall1044" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1568, 2080 )
+rotation = 0.00143226
+
+[node name="Wall1045" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1568, 2048 )
+rotation = 0.00143226
+
+[node name="Wall1046" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1535, 1999 )
+rotation = 0.00143226
+
+[node name="Wall1047" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1536, 2034 )
+rotation = 0.00143226
+
+[node name="Wall1048" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1536, 2065 )
+rotation = 0.00143226
+
+[node name="Wall1049" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1536, 2097 )
+rotation = 0.00143226
+
+[node name="Wall1050" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1536, 2128 )
+rotation = 0.00143226
+
+[node name="Wall1051" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1536, 2160 )
+rotation = 0.00143226
+
+[node name="Wall1052" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1536, 2193 )
+rotation = 0.00143226
+
+[node name="Wall1053" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1504, 2016 )
+rotation = 0.00143226
+
+[node name="Wall1054" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1471, 1999 )
+rotation = 0.00143226
+
+[node name="Wall1055" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1440, 1983 )
+rotation = 0.00143226
+
+[node name="Wall1056" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1411, 1998 )
+rotation = 0.00143226
+
+[node name="Wall1057" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1376, 2016 )
+rotation = 0.00143226
+
+[node name="Wall1058" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1344, 2000 )
+rotation = 0.00143226
+
+[node name="Wall1059" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1504, 1985 )
+rotation = 0.00143226
+
+[node name="Wall1060" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1248, 1952 )
+rotation = 0.00143226
+
+[node name="Wall1061" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1248, 1920 )
+rotation = 0.00143226
+
+[node name="Wall1062" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1280, 1936 )
+rotation = 0.00143226
+
+[node name="Wall1063" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1313, 1920 )
+rotation = 0.00143226
+
+[node name="Wall1064" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1312, 1889 )
+rotation = 0.00143226
+
+[node name="Wall1065" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1312, 1856 )
+rotation = 0.00143226
+
+[node name="Wall1066" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1312, 1825 )
+rotation = 0.00143226
+
+[node name="Wall1067" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1280, 1840 )
+rotation = 0.00143226
+
+[node name="Wall1068" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1279, 1904 )
+rotation = 0.00143226
+
+[node name="Wall1069" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1279, 1807 )
+rotation = 0.00143226
+
+[node name="Wall1070" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1280, 1775 )
+rotation = 0.00143226
+
+[node name="Wall1071" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1247, 1760 )
+rotation = 0.00143226
+
+[node name="Wall1072" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1248, 1727 )
+rotation = 0.00143226
+
+[node name="Wall1073" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1248, 1696 )
+rotation = 0.00143226
+
+[node name="Wall1074" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1345, 1743 )
+rotation = 0.00143226
+
+[node name="Wall1076" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1280, 1744 )
+rotation = 0.00143226
+
+[node name="Wall1077" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1408, 1744 )
+rotation = 0.00143226
+
+[node name="Wall1078" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1345, 1648 )
+rotation = 0.00143226
+
+[node name="Wall1079" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1312, 1664 )
+rotation = 0.00143226
+
+[node name="Wall1080" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1280, 1680 )
+rotation = 0.00143226
+
+[node name="Wall1081" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1280, 1712 )
+rotation = 0.00143226
+
+[node name="Wall1082" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1441, 1760 )
+rotation = 0.00143226
+
+[node name="Wall1083" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1473, 1744 )
+rotation = 0.00143226
+
+[node name="Wall1084" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1503, 1728 )
+rotation = 0.00143226
+
+[node name="Wall1085" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1536, 1744 )
+rotation = 0.00143226
+
+[node name="Wall1086" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1569, 1729 )
+rotation = 0.00143226
+
+[node name="Wall1087" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1600, 1713 )
+rotation = 0.00143226
+
+[node name="Wall1088" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1632, 1695 )
+rotation = 0.00143226
+
+[node name="Wall1089" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1664, 1680 )
+rotation = 0.00143226
+
+[node name="Wall1090" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1696, 1632 )
+rotation = 0.00143226
+
+[node name="Wall1094" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1696, 1632 )
+rotation = 0.00143226
+
+[node name="Wall1091" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1664, 1648 )
+rotation = 0.00143226
+
+[node name="Wall1092" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1631, 1664 )
+rotation = 0.00143226
+
+[node name="Wall1093" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1664, 1616 )
+rotation = 0.00143226
+
+[node name="Wall1095" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1696, 1600 )
+rotation = 0.00143226
+
+[node name="Wall1096" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1696, 1472 )
+rotation = 0.00143226
+
+[node name="Wall1097" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1696, 1504 )
+rotation = 0.00143226
+
+[node name="Wall1100" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1663, 1488 )
+rotation = 0.00143226
+
+[node name="Wall1101" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1664, 1519 )
+rotation = 0.00143226
+
+[node name="Wall1102" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1664, 1551 )
+rotation = 0.00143226
+
+[node name="Wall1103" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1663, 1583 )
+rotation = 0.00143226
+
+[node name="Wall1104" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1664, 1456 )
+rotation = 0.00143226
+
+[node name="Wall1105" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1631, 1440 )
+rotation = 0.00143226
+
+[node name="Wall1106" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1664, 1425 )
+rotation = 0.00143226
+
+[node name="Wall1107" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1344, 1423 )
+rotation = 0.00143226
+
+[node name="Wall1108" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1311, 1440 )
+rotation = 0.00143226
+
+[node name="Wall1109" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1343, 1454 )
+rotation = 0.00143226
+
+[node name="Wall1110" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1377, 1472 )
+rotation = 0.00143226
+
+[node name="Wall1111" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1343, 1488 )
+rotation = 0.00143226
+
+[node name="Wall1112" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1375, 1504 )
+rotation = 0.00143226
+
+[node name="Wall1113" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1376, 1535 )
+rotation = 0.00143226
+
+[node name="Wall1114" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1376, 1568 )
+rotation = 0.00143226
+
+[node name="Wall1115" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1377, 1600 )
+rotation = 0.00143226
+
+[node name="Wall1116" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1408, 1584 )
+rotation = 0.00143226
+
+[node name="Wall1117" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1408, 1553 )
+rotation = 0.00143226
+
+[node name="Wall1118" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1408, 1519 )
+rotation = 0.00143226
+
+[node name="Wall1119" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -2720, 1568 )
+rotation = 0.00143226
+
+[node name="Wall1120" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -2753, 1584 )
+rotation = 0.00143226
+
+[node name="Wall1136" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -2847, 1599 )
+rotation = 0.00143226
+
+[node name="Wall1137" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -2815, 1584 )
+rotation = 0.00143226
+
+[node name="Wall1138" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -2752, 1552 )
+rotation = 0.00143226
+
+[node name="Wall1139" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -2880, 1616 )
+rotation = 0.00143226
+
+[node name="Wall1140" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -2912, 1632 )
+rotation = 0.00143226
+
+[node name="Wall1141" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -2945, 1648 )
+rotation = 0.00143226
+
+[node name="Wall1142" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -2944, 1489 )
+rotation = 0.00143226
+
+[node name="Wall1143" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -2912, 1440 )
+rotation = 0.00143226
+
+[node name="Wall1144" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -2944, 1456 )
+rotation = 0.00143226
+
+[node name="Wall1145" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -2977, 1473 )
+rotation = 0.00143226
+
+[node name="Wall1146" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -2975, 1504 )
+rotation = 0.00143226
+
+[node name="Wall1147" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -3009, 1520 )
+rotation = 0.00143226
+
+[node name="Wall1148" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -3040, 1536 )
+rotation = 0.00143226
+
+[node name="Wall1149" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -3071, 1552 )
+rotation = 0.00143226
+
+[node name="Wall1150" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -3103, 1568 )
+rotation = 0.00143226
+
+[node name="Wall1151" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -3136, 1583 )
+rotation = 0.00143226
+
+[node name="Wall1152" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -3168, 1569 )
+rotation = 0.00143226
+
+[node name="Wall1153" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -3104, 1600 )
+rotation = 0.00143226
+
+[node name="Wall1154" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -3071, 1617 )
+rotation = 0.00143226
+
+[node name="Wall1155" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -3039, 1632 )
+rotation = 0.00143226
+
+[node name="Wall1156" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -3008, 1648 )
+rotation = 0.00143226
+
+[node name="Wall1157" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -2976, 1663 )
+rotation = 0.00143226
+
+[node name="Wall1158" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -2944, 1680 )
+rotation = 0.00143226
+
+[node name="Wall1159" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -2913, 1695 )
+rotation = 0.00143226
+
+[node name="Wall1160" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -2881, 1712 )
+rotation = 0.00143226
+
+[node name="Wall1161" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -2848, 1729 )
+rotation = 0.00143226
+
+[node name="Wall1162" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -2815, 1745 )
+rotation = 0.00143226
+
+[node name="Wall1163" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -2784, 1760 )
+rotation = 0.00143226
+
+[node name="Wall1164" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -2719, 1792 )
+rotation = 0.00143226
+
+[node name="Wall1165" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -2688, 1808 )
+rotation = 0.00143226
+
+[node name="Wall1166" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -2656, 1823 )
+rotation = 0.00143226
+
+[node name="Wall1167" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -2624, 1840 )
+rotation = 0.00143226
+
+[node name="Wall1168" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -2593, 1856 )
+rotation = 0.00143226
+
+[node name="Wall1169" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -2530, 1887 )
+rotation = 0.00143226
+
+[node name="Wall1170" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -2496, 1903 )
+rotation = 0.00143226
+
+[node name="Wall1171" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -2528, 1857 )
+rotation = 0.00143226
+
+[node name="Wall1172" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -2559, 1840 )
+rotation = 0.00143226
+
+[node name="Wall1173" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -2272, 1120 )
+rotation = 0.00143226
+
+[node name="Wall1174" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -2240, 1104 )
+rotation = 0.00143226
+
+[node name="Wall1175" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -2209, 1089 )
+rotation = 0.00143226
+
+[node name="Wall1176" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -2145, 1088 )
+rotation = 0.00143226
+
+[node name="Wall1177" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -2175, 1072 )
+rotation = 0.00143226
+
+[node name="Wall1178" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1504, 736 )
+rotation = 0.00143226
+
+[node name="Wall1179" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1536, 751 )
+rotation = 0.00143226
+
+[node name="Wall1180" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1568, 768 )
+rotation = 0.00143226
+
+[node name="Wall1181" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1599, 784 )
+rotation = 0.00143226
+
+[node name="Wall1182" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1631, 800 )
+rotation = 0.00143226
+
+[node name="Wall1183" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1664, 816 )
+rotation = 0.00143226
+
+[node name="Wall1184" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1697, 832 )
+rotation = 0.00143226
+
+[node name="Wall1185" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1728, 848 )
+rotation = 0.00143226
+
+[node name="Wall1186" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1952, 992 )
+rotation = 0.00143226
+
+[node name="Wall1187" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1920, 977 )
+rotation = 0.00143226
+
+[node name="Wall1188" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1888, 960 )
+rotation = 0.00143226
+
+[node name="Wall1189" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1856, 944 )
+rotation = 0.00143226
+
+[node name="Wall1190" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1984, 1008 )
+rotation = 0.00143226
+
+[node name="Wall1191" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -2016, 1024 )
+rotation = 0.00143226
+
+[node name="Wall1192" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -2048, 1041 )
+rotation = 0.00143226
+
+[node name="Wall1193" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -2079, 1055 )
+rotation = 0.00143226
+
+[node name="Wall1194" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -2112, 1073 )
+rotation = 0.00143226
+
+[node name="Wall1195" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1856, 912 )
+rotation = 0.00143226
+
+[node name="Wall1196" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1824, 897 )
+rotation = 0.00143226
+
+[node name="Wall1197" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1792, 880 )
+rotation = 0.00143226
+
+[node name="Wall1198" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1759, 864 )
+rotation = 0.00143226
+
+[node name="Wall1199" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1890, 928 )
+rotation = 0.00143226
+
+[node name="Wall1121" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -2880, 1424 )
+rotation = 0.00143226
+
+[node name="Wall1122" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -2848, 1407 )
+rotation = 0.00143226
+
+[node name="Wall1123" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -2816, 1391 )
+rotation = 0.00143226
+
+[node name="Wall1124" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -2783, 1375 )
+rotation = 0.00143226
+
+[node name="Wall1125" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -2752, 1360 )
+rotation = 0.00143226
+
+[node name="Wall1126" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -2720, 1344 )
+rotation = 0.00143226
+
+[node name="Wall1127" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -2688, 1328 )
+rotation = 0.00143226
+
+[node name="Wall1128" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -2656, 1312 )
+rotation = 0.00143226
+
+[node name="Wall1129" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -2624, 1296 )
+rotation = 0.00143226
+
+[node name="Wall1130" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -2591, 1280 )
+rotation = 0.00143226
+
+[node name="Wall1131" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -2560, 1264 )
+rotation = 0.00143226
+
+[node name="Wall1132" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -2528, 1248 )
+rotation = 0.00143226
+
+[node name="Wall1133" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -2496, 1233 )
+rotation = 0.00143226
+
+[node name="Wall1134" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -2463, 1215 )
+rotation = 0.00143226
+
+[node name="Wall1135" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -2785, 1600 )
+rotation = 0.00143226
+
+[node name="Wall1098" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1696, 1536 )
+rotation = 0.00143226
+
+[node name="Wall1099" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1696, 1568 )
+rotation = 0.00143226
+
+[node name="Wall1075" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1312, 1728 )
+rotation = 0.00143226
+
+[node name="Wall947" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1184, 992 )
+rotation = 0.00143226
+
+[node name="Wall948" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1184, 960 )
+rotation = 0.00143226
+
+[node name="Wall949" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1151, 944 )
+rotation = 0.00143226
+
+[node name="Wall950" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1119, 928 )
+rotation = 0.00143226
+
+[node name="Wall940" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1024, 1103 )
+rotation = 0.00143226
+
+[node name="Wall893" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1120, 897 )
+rotation = 0.00143226
+
+[node name="Wall894" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -1120, 897 )
+rotation = 0.00143226
+
+[node name="Wall808" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( 0, 463 )
+
+[node name="Wall797" parent="Environment/Walls" instance=ExtResource( 7 )]
+position = Vector2( -287, 543 )
 
 [node name="Wall732" parent="Environment/Walls" instance=ExtResource( 7 )]
 position = Vector2( 513, 273 )
